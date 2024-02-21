@@ -141,8 +141,8 @@ async function waitForEvent(page, event) {
 
     const browser = await puppeteer.launch( {
         headless: "true",
-        executablePath: 'C:\\Users\\Jack\\AppData\\Local\\Google\\Chrome SxS\\Application\\chrome.exe',
-        userDataDir: 'C:\\Users\\Jack\\AppData\\Local\\Google\\Chrome SxS\\User Data\\Default',
+        executablePath: 'Your_PATH',
+        userDataDir: 'Your_PATH',
     } );
 
     const page = await browser.newPage();
