@@ -1,4 +1,4 @@
-# 🦙 LLaVA Web Crawler
+# 🦙 LLaVA 1.6 Web Crawler
 
 ![LLaVA](LLaVA.png)
 
